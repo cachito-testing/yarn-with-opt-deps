@@ -40,18 +40,10 @@ get-func-name@^2.0.0:
   resolved "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.0.tgz#ead774abee72e20409433a066366023dd6887a41"
   integrity sha1-6td0q+5y4gQJQzoGY2YCPdaIekE=
 
-"npm-test-project@git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git":
-  version "1.0.0"
-  resolved "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git#88114c48d7d894f7e2306adf06137b096e9cdf29"
-
 pathval@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/pathval/-/pathval-1.1.1.tgz#8534e77a77ce7ac5a2512ea21e0fdb8fcf6c3d8d"
   integrity sha512-Dp6zGqpTdETdR63lehJYPeIOqpiNBNtc7BpWSLrOje7UaIsE5aY92r/AunQA7rsXvet3lrJ3JnZX29UPTKXyKQ==
-
-"test-npm-dep@git+https://elinah@bitbucket.org/elinah/test-npm-dep.git":
-  version "1.0.0"
-  resolved "git+https://elinah@bitbucket.org/elinah/test-npm-dep.git#b952715c0706f30d92a7253dcdadc510a618eca5"
 
 type-detect@^4.0.0, type-detect@^4.0.5:
   version "4.0.8"
