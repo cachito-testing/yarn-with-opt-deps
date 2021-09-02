@@ -2,10 +2,28 @@
   "name": "cachito-yarn-with-deps",
   "version": "1.0.0",
   "dependencies": {
-    "chai": "4.2.0",
     "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz"
   },
   "optDependencies": {
-    "amazon-dynamodb-log-stream": "piranna/amazon-dynamodb-log-stream"
+    "chai": "4.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cachito-testing/yarn-with-opt-deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cachito-testing/yarn-with-opt-deps/issues"
+  },
+  "homepage": "https://github.com/cachito-testing/yarn-with-opt-deps#readme",
+  "description": "",
+  "optionalDependencies": {
+    "chai": "^4.3.4"
   }
 }
